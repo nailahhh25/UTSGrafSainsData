@@ -69,7 +69,7 @@ Untuk menjalankan notebook dari awal, unduh juga `events.csv` dari Kaggle dan le
 | k (KNN) | 5 |
 | Metrik similarity | Cosine pada vektor biner |
 
-Catatan: `timestamp` pada dataset berupa unix epoch **milidetik** dan data hanya mencakup 3 Mei sampai 18 September 2015, sehingga periode contoh pada soal (2023/2024) tidak dapat dipakai.
+Catatan: `timestamp` pada dataset berupa unix epoch **milidetik** dan data hanya mencakup 3 Mei sampai 18 September 2015.
 
 ---
 
